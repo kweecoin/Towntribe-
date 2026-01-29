@@ -1,0 +1,7 @@
+{
+  "name": "TownTribe - Local Help & Marketplace",
+  "description": "A community-driven marketplace for local help and services. Join the tribe, post what you offer, and support your neighbors.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
